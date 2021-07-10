@@ -1,0 +1,116 @@
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\bin\Debug\Sera.exe
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\bin\Debug\Sera.pdb
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.exe
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.pdb
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.FormSil.resources
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.FormEkle.resources
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.FormAna.resources
+c:\users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\obj\x86\Debug\Sera.FormGoster.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\Sera\Sera\bin\Debug\Sera.exe.config
+C:\Users\DMS\Desktop\Sera\Sera\bin\Debug\Sera.exe.config
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.exe
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\DMS\Desktop\Sera\Sera\bin\Debug\Sera.exe
+C:\Users\DMS\Desktop\Sera\Sera\bin\Debug\Sera.pdb
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormGoster.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\DMS\Desktop\Sera\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+F:\Sera\Sera\bin\Debug\Sera.exe.config
+F:\Sera\Sera\obj\x86\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera\Sera\bin\Debug\Sera.exe.config
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+C:\Users\mertmeric\Desktop\Sera\Sera\bin\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera\Sera\bin\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\bin\Debug\Sera.exe.config
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\bin\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\bin\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.exe.config
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.exe
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.pdb
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\mertmeric\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.exe.config
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.exe
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.exe
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\bin\Debug\Sera.pdb
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\Sera projesi\Sera c#\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.exe.config
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.exe
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.pdb
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.exe
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.pdb
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Formislem.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormSil.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormEkle.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormAna.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.exe.config
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.exe
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.pdb
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.exe
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\bin\Debug\Sera.pdb
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.csprojResolveAssemblyReference.cache
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Formiletisim.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Formislem.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormSil.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormEkle.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormAna.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.FormGuncelle.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.Properties.Resources.resources
+D:\Ders\Sera projesi\Görsel Programlama\Sera Projesi\Sera\obj\x86\Debug\Sera.csproj.GenerateResource.Cache
